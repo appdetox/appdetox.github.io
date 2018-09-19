@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /about/
+title: About AppDetox
+description: "About AppDetox"
+modified: 2018-09-19
+---
+
 AppDetox
 ============
 
@@ -24,7 +32,9 @@ The project was started by some Android addicted dudes in their leisure time:
 
 Contact
 -----
+
 mail: [mail@appdetox.net](mailto:mail@appdetox.net)
+
 Twitter: [@appdetox](http://www.twitter.com/appdetox)
 
 Credits
