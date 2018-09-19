@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://appdetox.github.io
+url:              https://appdetox.github.io
 #url:
 
 # Owner/author information
@@ -30,7 +30,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
